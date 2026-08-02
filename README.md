@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/a3adfec0555fabbfeaabcd5a87613ef03ac385f9/star.gif"></p>
+<p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/image.png"></p>
 
 $${\color{white}i’d  \space scramble  \space my  \space secret  \space feelings  \space into  \space some  \space eggs  \space}$$
 $${\color{white}and  \space pack  \space them  \space all  \space in  \space my  \space lunchbox  \space}$$
