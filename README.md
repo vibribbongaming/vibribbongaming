@@ -4,9 +4,10 @@
 
 <p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/vibi.webp"></p>
 
-<p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/image.png"></p>
+<p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/piano.webp"></p>
 
 
 $${\color{white}strawpage  \space and  \space ata  \space are  \space wip!  \space}$$
 
+<p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/image.png"></p>
 
