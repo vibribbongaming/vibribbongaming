@@ -11,5 +11,4 @@ $${\color{white}strawpage  \space and  \space ata  \space are  \space wip!  \spa
 
 <p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/image.png"></p>
 
-<img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/stamptwo.gif" width="45%" />
-<p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/stamptwo.gif"></p> <p align="center"><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/stamp.gif"></p>
+<img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/stamptwo.gif" width="10%" /><img src="https://github.com/vibribbongaming/vibribbongaming/blob/main/stamptwo.gif" width="10%" />
